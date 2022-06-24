@@ -6,7 +6,7 @@ Any existing employee can also get password reset by this application.
 
 To run this project 
 
-fork the project
+fork the project.
 install java 8 
 install mysql
 create databases;
