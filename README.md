@@ -6,10 +6,10 @@ Any existing employee can also get password reset by this application.
 
 To run this project 
 
-fork the project.
-install java 8 
-install mysql
-create databases;
+fork the project,
+install java 8 ,
+install mysql,
+create databases,
 enter the credentials for admin to get access for the application.
 
 run the jar files
